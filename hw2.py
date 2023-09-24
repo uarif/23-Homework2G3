@@ -14,3 +14,4 @@ A=[[1,2,3],[3,4,5],[1,2,3]]
 B=[[1,2],[4,5,6]]
 C=[[2,3],[4,5]]
 print(trace([[2,3],[4,9]]))
+#Hi, I am just curious, are you guys comparing the execution time? I dont see any in your code, or I guess this is incomplete? 
